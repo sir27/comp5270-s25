@@ -2,6 +2,9 @@ title: COMP 5270 - HCI
 description: A website for the Human-Computer Interaction class at UMass Lowell.
 theme: just-the-docs
 
+source: docs
+destination: docs/_site
+
 url: https://uml-hci.github.io/comp5270-s25
 
 exclude: indA0.md

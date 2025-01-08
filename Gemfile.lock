@@ -283,7 +283,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 232)
-  just-the-docs (= 0.7.0)
+  just-the-docs
 
 BUNDLED WITH
    2.3.26

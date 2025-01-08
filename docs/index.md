@@ -12,6 +12,6 @@ Here, you can find the syllabus, a living schedule, descriptions of all assigmen
 
 Assignment submission, grading, and announcements will be done through [Blackboard](https://uml.umassonline.net/ultra/courses/_62886_1/cl/outline).
 
-![The five stage design thinking process: Empathize, Define, Ideate, Prototype, Test](/img/hci.png)
+![The five stage design thinking process: Empathize, Define, Ideate, Prototype, Test](img/hci.png)
 
 <!--fix path-->
