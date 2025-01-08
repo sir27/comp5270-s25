@@ -7,7 +7,8 @@ nav_order: 1
 # Syllabus
 
 COMP 5270 - 201 (#12535) Human-Computer Interaction\
-Tuesdays & Thursdays 2:00pm - 3:15pm, Falmouth Hall 209
+SPRING 2025
+Tuesdays & Thursdays 12:30pm - 1:45pm, Olsen Hall TBD
 
 <!--**While this note is still here, this syllabus is still being ACTIVELY edited and may change in major ways.**-->
 
@@ -21,16 +22,10 @@ Course details and policies are always subject to change. Revisions will be anno
 **Email**: sam_reig@uml.edu\
 **Office**: Dandeneau 301\
 **Office hours**: \
-Tuesdays 11:00am - 12:30pm, Dandeneau 301 \
-Thursdays 3:30pm - 5pm, Dandeneau 301 \
-Zoom: by appointment
-
-### TA
-
-**Sharmin Sultana**\
-**Email**: sharmin_sultana@uml.edu\
-**Office hours**: \
-Tuesdays 12:00pm - 1:00pm, Dandeneau 303 and Zoom (link on Blackboard)
+Tuesdays and Thursdays \
+2pm-3:30pm (immediately after class)\
+DAN 301\
+Or by appointment if needed
 
 ## Welcome!
 
@@ -50,7 +45,6 @@ Upon successful completion of this course, students will demonstrate the ability
 3. Compare the strengths and weaknesses of different HCI techniques for a given design problem.
 4. Discuss open challenges in the field of human-computer interaction, including ethical, social, and policy implications of new designs.
 
-
 ## Prerequisites
 
 There are no prerequisites for this course. Students are expected to have proficiency with computers. Programming and graphic design skills may be helpful, but are not required.
@@ -59,7 +53,7 @@ There are no prerequisites for this course. Students are expected to have profic
 
 The people in this class and in our UMass Lowell community come from diverse identities and backgrounds. Diversity includes a variety of dimensions, such as race, gender identity, ethnicity, sexual orientation, faith and non-faith perspectives, and many others. In this class, we will study ways in which system design can both support and exclude users along these dimensions. We must also be cognizant and respectful of identity—including dimensions not explicitly mentioned in this statement—when we design course materials, deliver course content, and interact with each other. It is my goal to make this class as accessible, approachable, and useful for all students as it can possibly be. If you have suggestions about how to better align the course with the values of diversity and inclusion, I encourage you to share them with me. If you’d rather do that anonymously, you can use this form:
 
-[COMP5270 - Spring 2024 Feedback Form](https://forms.gle/3z9kqq9VtTnpXaG37)
+[COMP5270 - Spring 2025 Feedback Form](https://forms.gle/8TD4ZnaM5t1uCtev6)
 
 The [Office of Multicultural Affairs (OMA)](https://www.uml.edu/student-services/multicultural/) supports and advocates for students while leading diversity-related programming and working to create an inclusive environment for LGBTQ+ individuals via the LGBTQ+ Resource Center. Contact (978) 934-4336 or Multicultural_Affairs@uml.edu
 
@@ -120,11 +114,11 @@ Letter grades will be assigned based on the number of points you earn (out of 10
 
 ### Participation
 
-Regular class attendance will be very much to your advantage. There will be material presented in class that is NOT included in the readings; you will only be able to obtain it by attending class. Also, there will be in-class exercises that will help you to understand and practice various techniques. Some of the midterm questions may be drawn from the in-class exercises. Finally, this class will incorporate a number of class discussions and chances to learn from fellow students. You will be expected to participate in discussions and exercises during class. 
+Regular class attendance will be very much to your advantage. There will be material presented in class that is NOT included in the readings; you will only be able to obtain it by attending class. Also, there will be in-class exercises that will help you to understand and practice various techniques. Some of the midterm questions may be drawn from the in-class exercises. Finally, this class will incorporate a number of class discussions and chances to learn from fellow students. You will be expected to participate in discussions and exercises during class.
 
-Once the final project kicks off, please tell your teammates if you’ll be absent from class so that they can prepare appropriately for work sessions and other activities that we/they might be planning to do during class time. If you are sick, please take care of yourself, and do not come to class. (We want our discussions to promote the exchange of ideas, not germs!)
+Once the final project kicks off, please tell your teammates if you’ll be absent from class so that they can prepare appropriately for work sessions and other activities that we/they might be planning to do during class time. If you are sick, please take care of yourself, and do not come to class.
 
-Opportunities to participate outside of the class meetings themselves -- e.g., sharing observations/links related to the class in Discord, attending lectures related to the class -- will likely arise throughout the semester, so keep an eye out for those. 
+Opportunities to participate outside of the class meetings themselves -- e.g., sharing observations/links related to the class in forums, attending lectures related to the class -- will likely arise throughout the semester, so keep an eye out for those.
 
 ### Homework assignments
 
@@ -160,11 +154,27 @@ All students are advised that there is a [University policy regarding academic i
 
 ### Generative AI
 
-In this class, you are welcome to use generative AI (e.g., ChatGPT, DALL-E) to make minor technical improvements to work that you yourself have done. For design, you may use it as a sounding board for **ideas that you come up with**. For writing, you may use it to copy edit your spelling and grammar **after you’ve written an initial draft yourself**. Use of generative AI that does not follow these guidelines will count as a violation of academic integrity.
+For most of the work you will do for this class, there is no right answer. I want to **see work that is authentically yours**, not work that is “right”.
+
+In this class, you may use generative AI (e.g., ChatGPT, Gemini) to help you create authentic work. You can use it to:
+
+1. copy edit or make other minor improvements to work that you yourself have already done, or
+2. generate images that you want to use for illustrative purposes.
+
+You must always cite your sources; this includes generative AI tools. You do not have to disclose the use of tools that can only make grammatical edits and small rephrasing suggestions (e.g., spellcheck in Microsoft Word).
+
+Any time you use copy-paste into or from a generative AI tool, you need to explain what you copied and/or what you pasted, and why. I will not penalize you for permitted uses of AI. When in doubt, disclose: it is better to over-cite and over-explain than to under-explain and risk violating academic integrity.
+
+Examples of citations and usage statements that reflect permitted use of AI are:
+
+- “I used ChatGPT to edit my grammar on this assignment. I pasted in my completed report, asked it to fix technical issues with the English, and pasted the corrected output into my assignment.”
+- “This image was generated by DALL-E.”
+
+Use of generative AI that does not follow these guidelines will count as a violation of academic integrity. If you copy-paste auto generated text into your coursework in which the AI has contributed more than minor technical edits, it will be both plagiarism and very obvious to me.
 
 ### Recordings
 
-Class meetings will be recorded using Echo360 and posted to Blackboard. If you miss class, please review the recording. Do not attempt to download the recordings; this is a violation of university privacy policy. If you have trouble accessing a recording, let me know.
+Class meetings will be recorded using Echo360 and posted to Blackboard. If you miss class, please review the recording. Do not attempt to download the recordings; this is a violation of university privacy policy. If you have trouble accessing a recording, let me know. Watching recordings are not a substitute for coming to class.
 
 ### Late submissions
 
