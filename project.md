@@ -7,7 +7,7 @@ has_children: true
 
 # Project
 
-IN PROGRESS
+WORK IN PROGRESS
 
 Important dates:
 
