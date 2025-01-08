@@ -1,1 +1,1 @@
-This folder is for incomplete drafts of files related to COMP5270 course at UML. If you are a student in the course and have stumbled upon this page, please do not do any work based off of what you see here.
+This folder is for incomplete drafts of files related to COMP5270 course at UML. If you are a student in the course and have stumbled upon this page, please do not do any work based off of what you see in this folder.
