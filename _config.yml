@@ -5,7 +5,7 @@ theme: just-the-docs
 source: docs
 destination: docs/_site
 
-url: https://uml-hci.github.io/comp5270-s25
+url: https://uml-hci.github.io/
 baseurl: "/comp5270-s25"
 
 #aux_links: # remove if you don't want this link to appear on your pages
